@@ -1,1 +1,9 @@
-The Money Bank Project simulates how a bank manages transactions using concepts from the Theory of Automata. The project models the bank's operations—like deposit and withdrawal.
+GROUP MEMBERS:
+
+23K-0585 MARYIAM KHAN
+
+23K-0876 AIMAN NADEEM KHAN
+
+23K-0824 AMNA RAIS
+
+PAPER PROJECT: MONEY BANK FUNCTIONALITIES - WITHDRAW, DEPOSIT AND INSERT CARD USED: CARDBOARD, RUBBER BANDS, RUBBER PIPES, TOY MOTORS, BATTERY.
